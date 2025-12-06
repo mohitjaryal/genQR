@@ -1,1 +1,1 @@
-# Generate QQR
+# Generate QR
