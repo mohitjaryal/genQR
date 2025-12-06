@@ -1,2 +1,2 @@
-pyt
+pyth
 qrcode
