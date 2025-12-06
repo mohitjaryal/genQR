@@ -8,7 +8,7 @@ url = input('Enter text or URL: ').strip()
 # Output file path
 file_path = 'qrcode.png'
 
-# Create QR code object
+# QR code object
 qr = qrcode.QRCode()
 
 # Add data to QR code
