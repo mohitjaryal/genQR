@@ -6,3 +6,7 @@ import qrcode
 url = input('Enter text or URL :').strip()
 
 # file
+file_path = 'qrcode.png'
+
+qr = qrcode.QRCode()
+qr.add_data(url)
