@@ -1,2 +1,2 @@
 # Generate QR
-import
+import qocode
