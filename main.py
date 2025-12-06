@@ -1,4 +1,4 @@
-# Generate QR  using python
+# Generate QR using python
 
 import qrcode
 
