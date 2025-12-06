@@ -1,2 +1,4 @@
-# Generate QR
-import qocode
+# Generate QR using python
+
+#
+import qrcode
