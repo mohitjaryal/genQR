@@ -3,4 +3,4 @@
 # importing library
 import qrcode
 
-url = input('Enter text or url')
+url = input('Enter text or URL :').strip()
