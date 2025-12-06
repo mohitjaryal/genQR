@@ -27,6 +27,13 @@ A simple yet powerful Python-based QR Code Generator that allows you to create c
 Clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/qr-code-generator.git
-cd qr-code-generator
-pip install qrcode[pil]
+git clone https://github.com/mohitjaryal/genQR.git
+cd genQR
+pip install qrcode[pil] or
+pip install qrcode
+pip install Pillow
+```
+
+## 🤝 Connect & Collaborate
+
+ **Visit my portfolio:** [mohitjaryal.online](https://mohitjaryal.online)
