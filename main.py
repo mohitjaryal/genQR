@@ -2,7 +2,7 @@
 
 import qrcode
 
-# Take input
+# U input
 url = input('Enter text or URL: ').strip()
 
 # Output file path
